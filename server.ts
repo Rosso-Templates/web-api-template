@@ -98,6 +98,3 @@ export default class Server {
         }
     }
 }
-
-const test = new Server(3000);
-test.initRoutes();
